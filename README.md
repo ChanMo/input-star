@@ -4,10 +4,13 @@
 ## 使用方法
 1 引入图标文件
 >`<link href="http://cdn.bootcss.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">`
+
 2 引入js文件
 >`<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.js"></script>`
 `<script src="city.js"></script>`
+
 3 把type修改为star
 >`<input type="star" name="test">`
+
 4 完成
 
