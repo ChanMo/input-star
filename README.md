@@ -3,13 +3,13 @@
 
 ## 下载
 
-```
+```bash
 bower install input-star
 ```
 
 ## 使用方法
 1 引入图标文件
-```
+```html
 <link href="http://cdn.bootcss.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 ```
 
