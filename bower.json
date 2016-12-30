@@ -1,0 +1,23 @@
+{
+  "name": "input-star",
+  "homepage": "https://github.com/ChanMo/input-star",
+  "authors": [
+    "ChanMo <chen.orange@aliyun.com>"
+  ],
+  "description": "set input[type='star'] to five stars",
+  "main": "star.js",
+  "keywords": [
+    "star",
+    "inpu",
+    "js",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
