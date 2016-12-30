@@ -1,0 +1,23 @@
+{
+  "name": "input-star",
+  "version": "1.0.0",
+  "description": "set input[type='star'] to stars",
+  "main": "star.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanMo/input-star.git"
+  },
+  "keywords": [
+    "input",
+    "star"
+  ],
+  "author": "chanmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanMo/input-star/issues"
+  },
+  "homepage": "https://github.com/ChanMo/input-star#readme"
+}
